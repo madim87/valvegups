@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 class Header extends Component{
     render(){
         return (
-            <h2>TODO LIST</h2>
+                <h2 className="header-text">Gap Calculater</h2>
         );
     }
 
